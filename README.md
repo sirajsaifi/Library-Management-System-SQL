@@ -13,7 +13,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 ---
 
 ## **Entity Relationship Diagram (ERD)**
-![](https://github.com/sirajsaifi/Library-Management-System-SQL/blob/main/libraryMSysERD.jpg)
+![](https://github.com/sirajsaifi/Library-Management-System-SQL/blob/main/libraryMSysERD.png)
 
 
 ## **Objective**
